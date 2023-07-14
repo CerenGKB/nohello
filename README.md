@@ -1,6 +1,8 @@
 # Nohello
 
-Bu kod, [this](https://sbmueller.github.io/nohello/) websitesinin kaynak kodunun türkçeleştirilmiş hali.
+This is a turkish translated version by me of [nohello](https://sbmueller.github.io/nohello/)
+
+Bu kod, [nohello](https://sbmueller.github.io/nohello/) websitesinin kaynak kodunun türkçeleştirilmiş hali.
 
 
 
