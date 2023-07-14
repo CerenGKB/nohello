@@ -2,6 +2,9 @@
 
 Bu kod, [this](https://sbmueller.github.io/nohello/) websitesinin kaynak kodunun türkçeleştirilmiş hali.
 
+# Türkçe Nohello
+
+https://nohelloturkish.vercel.app/
 
 
 ## Emeği Geçenler
